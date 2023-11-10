@@ -7,14 +7,14 @@ class student
 	public:
 		student(int x=5,int y=6)
 		{
-			a=x;
-			b=y;
+			a=y;
+			b=x;
 		}
 
     void display()
    {
 	    cout<<"the value a="<<a;
-      	cout<<"the value b="<<b;
+      	cout<<"the value b="<<a;
    }
 };
 int main()
