@@ -11,7 +11,7 @@ int main()
 {
 	int z,w;
 	cout<<"enter x value";
-	cin>>z;
+	cout<<"enter";
 	cout<<"enter y value";
 	cin>>w;
 	call(z,w);
