@@ -2,8 +2,7 @@
 using namespace std;
 int call(int &a,int &b)
 {
-	a++;
-	b++;
+	
 	cout<<"a="<<a<<endl;
 	cout<<"b="<<b<<endl;
 	cout<<"c="<<c<<ndl;;
