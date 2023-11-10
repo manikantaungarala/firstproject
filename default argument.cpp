@@ -13,7 +13,7 @@ class student
     void display()
    {
 	    cout<<"the value a="<<a;
-      	cout<<"the value b="<<a;
+      	cout<<"the value b="<<a;;
    }
 };
 int main()
