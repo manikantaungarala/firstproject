@@ -7,8 +7,7 @@ class student
 	public:
 		student(int x=5,int y=6)
 		{
-			a=y;
-			b=x;
+			
 		}
 
     void display()
