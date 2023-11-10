@@ -9,13 +9,13 @@ int call(int &a,int &b)
 }
 int main()
 {
-	int x,y;
+	int z,w;
 	cout<<"enter x value";
-	cin>>x;
+	cin>>z;
 	cout<<"enter y value";
-	cin>>y;
-	call(x,y);
-	cout<<"x="<<x<<endl;
-	cout<<"y="<<y<<endl;
+	cin>>w;
+	call(z,w);
+	cout<<"z="<<w<<endl;
+	cout<<"w="<<z<<endl;
 	return 0;
 }
