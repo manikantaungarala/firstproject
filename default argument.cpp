@@ -7,13 +7,13 @@ class student
 	public:
 		student(int x=5,int y=6)
 		{
-			
+			cout<<"fuck you";
 		}
 
     void display()
    {
 	    cout<<"the value a="<<a;
-      	cout<<"the value b="<<a;
+      	cout<<"the value b="<<a;;
    }
 };
 int main()
