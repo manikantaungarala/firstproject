@@ -9,7 +9,7 @@ int call(int &a,int &b)
 }
 int main()
 {
-	int z,w;
+	float z,w;
 	cout<<"enter x value";
 	cout<<"enter";
 	cout<<"enter y value";
