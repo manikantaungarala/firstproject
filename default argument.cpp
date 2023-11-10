@@ -7,7 +7,7 @@ class student
 	public:
 		student(int x=5,int y=6)
 		{
-			cout<<"fuck you";
+			cout<<"fuck you";....
 		}
 
     void display()
