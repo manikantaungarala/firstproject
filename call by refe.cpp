@@ -6,7 +6,7 @@ int call(int &a,int &b)
 	b++;
 	cout<<"a="<<a<<endl;
 	cout<<"b="<<b<<endl;
-	cout<<"c="<<c<<ndl;
+	cout<<"c="<<c<<ndl;;
 }
 int main()
 {
